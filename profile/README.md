@@ -98,7 +98,8 @@ Si deseas contribuir:
 # 📞 Contacto
 
 📧 neoappingenieriasas@gmail.com  
-🌐 [www.neoappingenieria.com](https://www.neoappingenieria.online/)   
+🌐 [/www.neoappingenieria.online](https://www.neoappingenieria.online/)   
+
 
 ---
 
